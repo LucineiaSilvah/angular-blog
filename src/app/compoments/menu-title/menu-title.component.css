@@ -1,0 +1,19 @@
+.container__menu-title {
+ color: #fff;
+
+
+}
+
+.container__menu-title >
+h1
+{
+  text-transform: uppercase;
+  margin: 15px 0;
+  text-align: center;
+  font-size: 8rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container__menu-title >
+hr{
+  margin: 20px 0;
+}
