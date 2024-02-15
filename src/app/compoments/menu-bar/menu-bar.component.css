@@ -1,5 +1,9 @@
 .container__menu-bar{
+  background: transparent;
+  font-size: 1.6rem;
+  padding-bottom: 20px;
   margin-top: 15px;
+  font-weight: bold;
 }
 .container__menu-bar > ul{
   display: flex;
@@ -10,4 +14,7 @@
 .container__menu-bar > ul > li{
   margin-right: 20px;
   list-style: none;
+}
+.container__menu-bar > ul > li > a:hover {
+color: #fe8d00;
 }

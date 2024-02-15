@@ -1,15 +1,37 @@
-<header>
-  <app-menu-bar></app-menu-bar>
-</header>
 <app-menu-title></app-menu-title>
 
 <div class="container__articles">
   <div class="articles__main">
-    <app-big-card></app-big-card>
+    <!--esse photoCover esta semvo inputado nao bigcard, esta aqui pq quem chama ele eh o compnente home-->
+    <app-big-card
+    Id="1"
+    photoCover="https://wallpapercave.com/wp/wp2237183.jpg"
+
+    cardDescription=" O personagem é descrito como formidável e que possui a inata habilidade de controlar o gelo de diversas formas..."
+
+    cardTitle="Sub-zero"
+    ></app-big-card>
   </div>
   <div class="articles__others">
-    <app-small-card></app-small-card>
-    <app-small-card></app-small-card>
-    <app-small-card></app-small-card>
+    <app-small-card
+    Id="2"
+    title="Escorpion"
+    photoCover="https://wallpapercave.com/uwp/uwp3648822.jpeg"
+description="conteudo sobre escorpion"
+
+    ></app-small-card>
+    <app-small-card
+    Id="3"
+    title="CYRAX"
+    photoCover="https://wallpapercave.com/wp/wp6674594.jpg"
+description="SOBRE CYRAX"
+
+    ></app-small-card>
+    <app-small-card
+    title="Milena"
+    Id="4"
+    photoCover="https://wallpapercave.com/wp/wp13373450.jpg"
+    description="texto sobre milena"
+    ></app-small-card>
   </div>
 </div>

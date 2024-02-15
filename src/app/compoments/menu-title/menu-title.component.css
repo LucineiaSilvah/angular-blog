@@ -1,14 +1,15 @@
 .container__menu-title {
  color: #fff;
 
-
+ background: transparent;
 }
 
 .container__menu-title >
 h1
 {
+  text-shadow: -2px 2px 8px #f20104;
   text-transform: uppercase;
-  margin: 15px 0;
+  margin: 25px 0;
   text-align: center;
   font-size: 8rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
