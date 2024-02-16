@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class MenuTitleComponent implements OnInit {
 
   constructor() { }
- title: string = 'Mortal Hero'
+ title: string = 'Mortal fighter'
   ngOnInit(): void {
   }
 
