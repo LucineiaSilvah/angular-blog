@@ -34,7 +34,7 @@
     font-size: 1rem;
     padding: 20px;
   }
- .content__cover > img{
+  img{
   width: 300px;
   min-width: 300px ;
  }
