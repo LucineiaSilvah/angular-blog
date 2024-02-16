@@ -24,3 +24,12 @@
   min-width: 500px;
   border-right: 1px solid #f20104
 }
+@media screen and (max-width:468px) {
+ .container__big-card{
+  width: 300px;
+ }
+ .photo__big-card > img {
+  width: 100%;
+  min-width: 300px;
+ }
+}

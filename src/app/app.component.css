@@ -5,4 +5,11 @@
 header{
   display: flex;
   justify-content: center;
+  width: 100%;
 }
+@media screen and (max-width:468px) {
+  header{
+    width: 100%;
+
+  }
+ }

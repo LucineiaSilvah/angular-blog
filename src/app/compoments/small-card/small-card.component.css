@@ -21,3 +21,10 @@
  color: gray;
  margin: 10px 0;
 }
+
+@media screen and (max-width:468px) {
+ .container__small-card{
+   flex-direction: column;
+   width: 250px;
+ }
+}
