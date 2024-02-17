@@ -19,8 +19,8 @@ export const dataFake = [
 },
 {
   "id":"4",
-  "title": "Milena",
-  "description":"...",
+  "title": "Mileena",
+  "description":"Millena conhecida por guerreira sedutora que luta com Sais(arma), foi criada por Shao Kahn, clone de Kitana, sua filha adotiva, porém o experimento não ocorreu como planejado, sua aparência monstrusa fez com que Shao Kahn A Apresentasse como irmã desaparecida de Kitana e colocada para espiar a filha, Possue Habilidades de teletransporte extemamente rapida devora os rostos de seus imimigos",
   "photoCover":"https://wallpapercave.com/wp/wp13373450.jpg"
 }
 ]
