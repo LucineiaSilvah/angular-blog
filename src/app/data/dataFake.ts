@@ -2,7 +2,7 @@ export const dataFake = [
  {
   "id":"1" ,
   "title": "Sub-Zero",
-  "description":"Sub-Zero é um Nijja assassino do Clã Lin Kuei, Seus Poderes com gelo foram herança  da raça Cryomasncer que possuiam hahilidades de controlar modelar o gelo, Tem Como seu principal Inimigo é Scorpion o qual vem buscando vingança por sua morte",
+  "description":"Sub-Zero é um Ninja assassino do Clã Lin Kuei, Seus Poderes com gelo foram herança  da raça Cryomancer que possuiam Habilidades de controlar modelar o gelo, Tem Como seu principal Inimigo  Scorpion o qual vem buscando vingança por sua morte",
   "photoCover":"https://wallpapercave.com/wp/wp2237183.jpg"
 },
 {
