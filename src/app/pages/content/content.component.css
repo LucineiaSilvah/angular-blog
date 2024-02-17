@@ -13,8 +13,7 @@
 .content__cover > img{
   width: 600px;
   min-width: 500px;
-  height: 300px;
-  border-bottom: 2px solid gray;
+  
 }
 .content__description{
   margin-top: 15px;
@@ -35,4 +34,7 @@
     font-size: 1rem;
     padding: 20px;
   }
- }
+ .content__cover > img{
+  width: 300px;
+  min-width: 300px ;
+ }}
