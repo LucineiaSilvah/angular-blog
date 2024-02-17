@@ -28,6 +28,7 @@
 
 @media screen and (max-width:720px) {
   .container__content{
+    height:100vh;
     font-size: 1rem;
   }
   .content__description > p{
