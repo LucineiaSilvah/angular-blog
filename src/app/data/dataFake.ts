@@ -14,7 +14,7 @@ export const dataFake = [
 {
   "id":"3",
   "title": "Cyrax",
-  "description":"...",
+  "description":"Cyrax é um ninja Cibernetico programado para rastrear e matar um membro do Clãn Lin Kuei,seu alvo era Sub-zero, porém ao lutar com ele foi derrotado e reprogramado, agora para matar Shao Kahn, ao chegar tarde para essa missão, pois Shao Kahn fora derrotado por outros guerreiros, ficou aguardando novos comandos, que pos sua vez não vieram, ficam assim perdido no deserto. Suas Habilidades é uma mistura de Artes marciais com tecnologias e magias que eram usadas para derrotar seus oponentes.",
   "photoCover":"https://wallpapercave.com/wp/wp6674594.jpg"
 },
 {
